@@ -43,3 +43,7 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 -- 
+
+select * from tbl1
+where k0='A'
+order BY c14

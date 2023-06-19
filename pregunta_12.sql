@@ -42,3 +42,7 @@
 --
 --  >>> Escriba su codigo a partir de este punto <<<
 --
+
+select k0, max(c12), min(C12)
+from tbl1
+GROUP by k0
