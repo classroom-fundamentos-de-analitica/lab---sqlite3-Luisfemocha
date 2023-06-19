@@ -17,6 +17,5 @@
 --  0        30
 --
 --  >>> Escriba su codigo a partir de este punto <<<
--- 
-
-select COUNT(k0) from tbl1
+--
+select COUNT(*) from tbl1
