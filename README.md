@@ -2,3 +2,7 @@
 # Laboratorio
 
 Manipulación de Datos usando sqlite3
+
+- Realizado por: Luis Felipe Moreno Chamorro
+- Materia: Fundamentos de Analitica
+- Universidad Nacional de Colombia sede Medellin
